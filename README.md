@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Oi 👋, Eu sou a Patrícia</h1>
+<h3 align="center">Uma cientista de dados apaixonada por transformar dados em informação.</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 <!--
 **patyandre/patyandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
