@@ -1,5 +1,15 @@
-<h1 align="center">Oi 👋, Eu sou a Patrícia</h1>
-<h3 align="center">Uma cientista de dados apaixonada por transformar dados em informação.</h3>
+<p align="center">
+  <img src="https://github.com/patyandre/patyandre/raw/main/assets/github.gif" alt="Oi, eu sou a Patrícia uma cientista de dados apaixonada por transformar dados em informação">
+</p>
+
+<!--
+How to make this gif ?
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
+Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
+-->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
