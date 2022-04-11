@@ -1,7 +1,5 @@
-### Oi 👋, eu sou a Patrícia
-#### Uma cientista de dados apaixonada por transformar dados em informação.
-![Uma cientista de dados apaixonada por transformar dados em informação.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-<!--
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/102249253/162647806-f8c1b829-2ee6-4da7-828d-3ca8fddd28f1.gif)
+
 How to make this gif ?
 I made my with https://codesandbox.io/s/github-profile-2ijk7
 Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
