@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/patyandre/patyandre/raw/main/assets/github.gif" alt="Oi, eu sou a Patrícia uma cientista de dados apaixonada por transformar dados em informação">
+  <img src="https://github.com/patyandre/patyandre/raw/main/assets/header-github" alt="Oi, eu sou a Patrícia uma cientista de dados apaixonada por transformar dados em informação">
 </p>
 
 <!--
