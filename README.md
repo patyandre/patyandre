@@ -1,4 +1,4 @@
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/102249253/162648847-c5d01724-d34b-44a3-b143-f0957d92121f.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/102249253/162648945-ae67b9df-1978-42a8-9a39-253ff4c83468.gif)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
