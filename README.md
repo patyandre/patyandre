@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://github.com/patyandre/patyandre/raw/main/assets/github.gif" alt="Oi, eu sou a Patrícia ">
-</p>
-
+### Oi 👋, eu sou a Patrícia
+#### Uma cientista de dados apaixonada por transformar dados em informação.
+![Uma cientista de dados apaixonada por transformar dados em informação.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 <!--
 How to make this gif ?
 I made my with https://codesandbox.io/s/github-profile-2ijk7
