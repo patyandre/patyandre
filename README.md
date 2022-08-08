@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou a Patrícia</h1>
-<h3 align="center">Apaixonada por análise de dados e transformá-los em informação.</h3>
+<h3 align="center">Apaixonada por análise de dados e de transformá-los em informação.</h3>
 
 - 🔭 Atualmente estou trabalhando **com análise e visualização de dados**
 
